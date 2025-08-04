@@ -1,2 +1,2 @@
 # AQaCourseHW
-Project for Homework Hillel AQA Course.
+second HW wich contain node,npm,js file with imported chalk
