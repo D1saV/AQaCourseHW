@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 node_modules/
 dist/
 build/
@@ -14,6 +13,3 @@ yarn-debug.log*
 yarn-error.log*
 .DS_Store
 *.log
-=======
-node_modules/
->>>>>>> Stashed changes

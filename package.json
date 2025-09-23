@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "test": "jest",
     "start": "webpack serve --open",
     "build": "webpack --mode production",
     "lint": "eslint .",
